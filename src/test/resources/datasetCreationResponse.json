@@ -1,0 +1,47 @@
+{
+  "_links": {
+    "self": {
+      "href": "/api/v2/datasets/doi%3A10.7959%2Fdryad.5dv41ns2h"
+    },
+    "stash:versions": {
+      "href": "/api/v2/datasets/doi%3A10.7959%2Fdryad.5dv41ns2h/versions"
+    },
+    "stash:version": {
+      "href": "/api/v2/versions/30747"
+    },
+    "stash:download": {
+      "href": "/api/v2/datasets/doi%3A10.7959%2Fdryad.5dv41ns2h/download"
+    },
+    "curies": [
+      {
+        "name": "stash",
+        "href": "https://github.com/CDL-Dryad/stash/blob/main/stash_api/link-relations.md#{rel}",
+        "templated": "true"
+      }
+    ]
+  },
+  "identifier": "doi:10.7959/dryad.5dv41ns2h",
+  "id": 29281,
+  "title": "This is a test submission",
+  "authors": [
+    {
+      "firstName": "Wanda",
+      "lastName": "Jackson",
+      "email": "wanda.jackson@example.com",
+      "affiliation": "University of the Example",
+      "orcid": "0000-12340-3333",
+      "order": 1
+    }
+  ],
+  "abstract": "This an abstract",
+  "fieldOfScience" : "Other natural sciences",
+  "versionNumber": 1,
+  "versionStatus": "in_progress",
+  "curationStatus": "In Progress",
+  "versionChanges": "none",
+  "lastModificationDate": "2022-08-08",
+  "visibility": "restricted",
+  "userId": 43785,
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "editLink": "/stash/edit/doi%3A10.7959%2Fdryad.5dv41ns2h/9pnE2U9VVe3mMQ"
+}

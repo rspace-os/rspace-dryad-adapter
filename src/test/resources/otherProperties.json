@@ -1,0 +1,37 @@
+{
+  "funder": {
+    "id": "100000001",
+    "location": "United States",
+    "name": "National Science Foundation",
+    "alt-names": [
+      "U.S. National Science Foundation",
+      "USA NSF",
+      "NSF",
+      "USNSF",
+      "US National Science Foundation",
+      "US NSF"
+    ],
+    "uri": "http://dx.doi.org/10.13039/100000001",
+    "replaces": [],
+    "replaced-by": [],
+    "tokens": [
+      "national",
+      "science",
+      "foundation",
+      "us",
+      "national",
+      "science",
+      "foundation",
+      "usa",
+      "nsf",
+      "nsf",
+      "usnsf",
+      "us",
+      "national",
+      "science",
+      "foundation",
+      "us",
+      "nsf"
+    ]
+  }
+}
