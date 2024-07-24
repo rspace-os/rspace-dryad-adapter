@@ -5,7 +5,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <artifactId>rspace-dryad-adapter</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>RSpace connector to Dryad, based on dryad-java-client</name>
 
     <parent>
@@ -27,10 +27,6 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
             </plugin>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-toolchains-plugin</artifactId>
-            </plugin>
         </plugins>
     </build>
 
@@ -43,12 +39,12 @@
         <dependency>
             <groupId>com.github.rspace-os</groupId>
             <artifactId>rspace-repository-spi</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
         </dependency>
         <dependency>
             <groupId>com.github.rspace-os</groupId>
             <artifactId>rspace-core-util</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
         </dependency>
 
         <dependency>
