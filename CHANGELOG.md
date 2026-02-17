@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4
+- switch to latest dryad-java-client (migrated to rspace-parent pom)
+- bump rspace-parent pom 2.1.3->2.1.4
+
 ## 1.0.2
 - switch to parent-pom 2.1.3 (updates various dependencies)
 
