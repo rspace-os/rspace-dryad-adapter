@@ -34,7 +34,7 @@
         <dependency>
             <groupId>com.github.rspace-os</groupId>
             <artifactId>dryad-java-client</artifactId>
-            <version>a19737be4c</version>
+            <version>0.2.2</version>
         </dependency>
         <dependency>
             <groupId>com.github.rspace-os</groupId>
