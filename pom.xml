@@ -11,7 +11,7 @@
     <parent>
         <artifactId>rspace-parent</artifactId>
         <groupId>com.github.rspace-os</groupId>
-        <version>3.0.0</version>
+        <version>314e7a9f6f729d219c4157c73dffd8314233de82</version>
     </parent>
 
     <repositories>
@@ -80,15 +80,19 @@
         <dependency>
             <groupId>org.junit.vintage</groupId>
             <artifactId>junit-vintage-engine</artifactId>
-        </dependency>
+          <scope>test</scope>
+    </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-migrationsupport</artifactId>
-        </dependency>
+          <scope>test</scope>
+    </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-        </dependency>
+      <version>4.13.2</version>
+          <scope>test</scope>
+    </dependency>
         <dependency>
             <groupId>jakarta.servlet</groupId>
             <artifactId>jakarta.servlet-api</artifactId>
